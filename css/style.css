@@ -2463,3 +2463,8 @@ h6 {
 .row {
     justify-content: center;
 }
+
+.contact_bg>img {
+    width: 540px;
+    padding: 0 15px;
+}
