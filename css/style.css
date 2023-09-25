@@ -2470,12 +2470,12 @@ h6 {
 }
 
 .cer_top {
-    padding-top: 5rem;
+    padding-top: 3rem;
     margin-bottom: 1rem !important;
 }
 
 @media (max-width:767px) {
     .cer_top {
-        padding-top: 1rem;
+        padding-top: 0;
     }
 }
